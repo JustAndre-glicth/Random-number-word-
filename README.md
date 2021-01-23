@@ -1,8 +1,9 @@
 # Random-number-word-
 App that makes random word ( Doesnt work)
 
-package com.example.nexttechcert
 
+
+{ package com.example.nexttechcert
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
